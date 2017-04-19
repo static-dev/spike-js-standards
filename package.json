@@ -16,6 +16,6 @@
   "repository": "static-dev/spike-js-standards",
   "dependencies": {
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
-    "babel-preset-env": "^1.3.2"
+    "babel-preset-env": "^1.4.0"
   }
 }

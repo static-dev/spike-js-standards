@@ -1,7 +1,7 @@
 const env = require('babel-preset-env')
 const dynamicImport = require('babel-plugin-syntax-dynamic-import')
 
-module.exports = (opts) => {
+module.exports = (opts = {}) => {
   const res = {
     presets: [[env, { modules: false }]],
     plugins: [dynamicImport]

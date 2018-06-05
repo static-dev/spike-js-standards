@@ -1,7 +1,7 @@
 {
   "name": "spike-js-standards",
   "description": "Basic babel configuration for webpack2",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "author": "Jeff Escalante",
   "bugs": "https://github.com/static-dev/spike-js-standards/issues",
   "homepage": "https://github.com/static-dev/spike-js-standards",
